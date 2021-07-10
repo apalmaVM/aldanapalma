@@ -1,0 +1,35 @@
+
+#titulo {
+	color: #52057B;
+	font-family: Helvetica;
+	font-size: 300%;
+}
+
+img {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border:4px solid #CDF0EA;
+}
+
+.personal{
+	color: #511281;
+	font-family: Verdana;
+	font-style: italic;
+	font-size: 100%;
+}
+
+.extra{
+	color:#4CA1A3;
+	font-family: Verdana;
+	font-style: italic;
+	font-size: 100%;
+}
+
+p{
+	color:#0A81AB;
+	font-family: Cambria;
+	font-size: 90%;
+}
+
