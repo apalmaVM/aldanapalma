@@ -1,0 +1,30 @@
+#contenedor {
+    border: 2px solid;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 600px;    
+    justify-content: center;
+    position: absolute;
+    align-items: center;
+
+}
+ #contenedor div {
+    width: 200px;
+    height: 200px;   
+}
+p{
+    font-size: 20px;
+    padding: 50% 0;
+    margin: auto;    
+    text-align: center;
+	color: white;
+}
+.div1{
+    background-color: red;
+}
+.div2{
+    background-color:blue;   
+}
+.div3{
+    background-color:green;        
+}   
